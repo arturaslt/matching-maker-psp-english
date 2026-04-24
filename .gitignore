@@ -1,0 +1,19 @@
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Game Data (Originals & Patched)
+BOOT.BIN
+archive1.arc
+patched_game/
+
+# Compiled Python
+__pycache__/
+*.pyc
+
+# Keep these
+!patches/
+!redirect-patcher.py
+!dist/redirect-patcher.exe
+!BOOT.BIN

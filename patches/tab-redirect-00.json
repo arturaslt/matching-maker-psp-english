@@ -1,0 +1,1289 @@
+{
+  "encoding": "UTF-16LE",
+  "tabs": [
+    {
+      "offset_start": "0x01EFE808",
+      "offset_end": "0x01EFE80F",
+      "original": "車道設置",
+      "translation": "Roads"
+    },
+    {
+      "offset_start": "0x01EFE814",
+      "offset_end": "0x01EFE81B",
+      "original": "歩道設置",
+      "translation": "walk"
+    },
+    {
+      "offset_start": "0x01EFE820",
+      "offset_end": "0x01EFE827",
+      "original": "道路撤去",
+      "translation": "destroy"
+    },
+    {
+      "offset_start": "0x01EFE82C",
+      "offset_end": "0x01EFE833",
+      "original": "建物設置",
+      "translation": "build"
+    },
+    {
+      "offset_start": "0x01EFE838",
+      "offset_end": "0x01EFE83F",
+      "original": "建物撤去",
+      "translation": "destroy"
+    },
+    {
+      "offset_start": "0x01EFE844",
+      "offset_end": "0x01EFE84B",
+      "original": "アイテム",
+      "translation": "items"
+    },
+    {
+      "offset_start": "0x01EFE850",
+      "offset_end": "0x01EFE857",
+      "original": "移住希望",
+      "translation": "move?"
+    },
+    {
+      "offset_start": "0x01EFE85C",
+      "offset_end": "0x01EFE865",
+      "original": "不満・要望",
+      "translation": "needs"
+    },
+    {
+      "offset_start": "0x01EFE888",
+      "offset_end": "0x01EFE895",
+      "original": "設置しますか？",
+      "translation": "Place?"
+    },
+    {
+      "offset_start": "0x01EFE898",
+      "offset_end": "0x01EFE8A5",
+      "original": "撤去しますか？",
+      "translation": "Remove?"
+    },
+    {
+      "offset_start": "0x01EFE8A8",
+      "offset_end": "0x01EFE8BD",
+      "original": "ポイントが足りません。",
+      "translation": "No points."
+    },
+    {
+      "offset_start": "0x01EFE8E0",
+      "offset_end": "0x01EFE8F7",
+      "original": "行き先を指定してください",
+      "translation": "Set target."
+    },
+    {
+      "offset_start": "0x01EFE8FC",
+      "offset_end": "0x01EFE903",
+      "original": "外に出る",
+      "translation": "Exit"
+    },
+    {
+      "offset_start": "0x01EFE908",
+      "offset_end": "0x01EFE917",
+      "original": "パスワードの送信",
+      "translation": "Send key"
+    },
+    {
+      "offset_start": "0x01EFE91C",
+      "offset_end": "0x01EFE931",
+      "original": "現在のミッションを確認",
+      "translation": "Mission"
+    },
+    {
+      "offset_start": "0x01EFE934",
+      "offset_end": "0x01EFE93F",
+      "original": "カメラの使用",
+      "translation": "Camera"
+    },
+    {
+      "offset_start": "0x01EFE944",
+      "offset_end": "0x01EFE94F",
+      "original": "もう一度遊ぶ",
+      "translation": "Retry"
+    },
+    {
+      "offset_start": "0x01EFE954",
+      "offset_end": "0x01EFE95F",
+      "original": "マップを選ぶ",
+      "translation": "MapSel"
+    },
+    {
+      "offset_start": "0x01EFE964",
+      "offset_end": "0x01EFE96D",
+      "original": "タイトルへ",
+      "translation": "Title"
+    },
+    {
+      "offset_start": "0x01EFE978",
+      "offset_end": "0x01EFE97F",
+      "original": "着信あり",
+      "translation": "Call"
+    },
+    {
+      "offset_start": "0x01EFE984",
+      "offset_end": "0x01EFE999",
+      "original": "ゲームデータを保存する",
+      "translation": "Save game"
+    },
+    {
+      "offset_start": "0x01EFE99C",
+      "offset_end": "0x01EFE9B3",
+      "original": "逃走中用データを保存する",
+      "translation": "Save chase"
+    },
+    {
+      "offset_start": "0x01EFE9B8",
+      "offset_end": "0x01EFE9C7",
+      "original": "データを削除する",
+      "translation": "Delete save"
+    },
+    {
+      "offset_start": "0x01EFE9CC",
+      "offset_end": "0x01EFE9D9",
+      "original": "タイトルに戻る",
+      "translation": "Title"
+    },
+    {
+      "offset_start": "0x01EFE9DC",
+      "offset_end": "0x01EFEA43",
+      "original": "ゲームを終了し、タイトル画面に戻ります。\n前回セーブした後のデータは\n保存されませんが、よろしいですか？",
+      "translation": "Quit game.\nBack to title.\nUnsaved OK?"
+    },
+    {
+      "offset_start": "0x01EFEA48",
+      "offset_end": "0x01EFEA4F",
+      "original": "逃走時間",
+      "translation": "Time"
+    },
+    {
+      "offset_start": "0x01EFEA54",
+      "offset_end": "0x01EFEA63",
+      "original": "ハンター追尾回数",
+      "translation": "Chases"
+    },
+    {
+      "offset_start": "0x01EFEA68",
+      "offset_end": "0x01EFEA77",
+      "original": "ミッション達成率",
+      "translation": "Miss %"
+    },
+    {
+      "offset_start": "0x01EFEA7C",
+      "offset_end": "0x01EFEA87",
+      "original": "獲得ポイント",
+      "translation": "Money"
+    },
+    {
+      "offset_start": "0x01EFEA8C",
+      "offset_end": "0x01EFEAA5",
+      "original": "システムデータを作成中です",
+      "translation": "Making data"
+    },
+    {
+      "offset_start": "0x01EFEAA8",
+      "offset_end": "0x01EFEAC9",
+      "original": "システムデータの作成が完了しました",
+      "translation": "Data created."
+    },
+    {
+      "offset_start": "0x01EFEACC",
+      "offset_end": "0x01EFEAE7",
+      "original": "システムデータをセーブ中です",
+      "translation": "Saving data"
+    },
+    {
+      "offset_start": "0x01EFEAEC",
+      "offset_end": "0x01EFEB0F",
+      "original": "システムデータのセーブが完了しました",
+      "translation": "Save complete."
+    },
+    {
+      "offset_start": "0x01EFEB14",
+      "offset_end": "0x01EFEB2F",
+      "original": "システムデータをロード中です",
+      "translation": "Loading system data"
+    },
+    {
+      "offset_start": "0x01EFEB34",
+      "offset_end": "0x01EFEB57",
+      "original": "システムデータのロードが完了しました",
+      "translation": "System data loading complete."
+    },
+    {
+      "offset_start": "0x01EFEB5C",
+      "offset_end": "0x01EFEB7D",
+      "original": "システムデータの作成に失敗しました",
+      "translation": "Create failed."
+    },
+    {
+      "offset_start": "0x01EFEB80",
+      "offset_end": "0x01EFEBA3",
+      "original": "システムデータのセーブに失敗しました",
+      "translation": "Save failed."
+    },
+    {
+      "offset_start": "0x01EFEBA8",
+      "offset_end": "0x01EFEBCB",
+      "original": "システムデータのロードに失敗しました",
+      "translation": "Load failed."
+    },
+    {
+      "offset_start": "0x01EFEBE8",
+      "offset_end": "0x01EFEBF1",
+      "original": "マップ０１",
+      "translation": "Map01"
+    },
+    {
+      "offset_start": "0x01EFEBE0",
+      "offset_end": "0x01EFEBE3",
+      "original": "開始",
+      "translation": "start"
+    },
+    {
+      "offset_start": "0x01EFEBF4",
+      "offset_end": "0x01EFEBFD",
+      "original": "マップ０２",
+      "translation": "Map02"
+    },
+    {
+      "offset_start": "0x01EFEC00",
+      "offset_end": "0x01EFEC09",
+      "original": "マップ０３",
+      "translation": "Map03"
+    },
+    {
+      "offset_start": "0x01EFEC0C",
+      "offset_end": "0x01EFEC15",
+      "original": "マップ０４",
+      "translation": "Map04"
+    },
+    {
+      "offset_start": "0x01EFEC18",
+      "offset_end": "0x01EFEC21",
+      "original": "マップ０５",
+      "translation": "Map05"
+    },
+    {
+      "offset_start": "0x01EFEC24",
+      "offset_end": "0x01EFEC2D",
+      "original": "マップ０６",
+      "translation": "Map06"
+    },
+    {
+      "offset_start": "0x01EFEC30",
+      "offset_end": "0x01EFEC39",
+      "original": "マップ０７",
+      "translation": "Map07"
+    },
+    {
+      "offset_start": "0x01EFEC3C",
+      "offset_end": "0x01EFEC45",
+      "original": "マップ０８",
+      "translation": "Map08"
+    },
+    {
+      "offset_start": "0x01EFEC48",
+      "offset_end": "0x01EFEC51",
+      "original": "マップ０９",
+      "translation": "Map09"
+    },
+    {
+      "offset_start": "0x01EFEC54",
+      "offset_end": "0x01EFEC5D",
+      "original": "マップ１０",
+      "translation": "Map10"
+    },
+    {
+      "offset_start": "0x01EFEC90",
+      "offset_end": "0x01EFEC97",
+      "original": "人口推移",
+      "translation": "Pop."
+    },
+    {
+      "offset_start": "0x01EFEC9C",
+      "offset_end": "0x01EFECA7",
+      "original": "テナント割合",
+      "translation": "Tenant"
+    },
+    {
+      "offset_start": "0x01EFEC60",
+      "offset_end": "0x01EFEC63",
+      "original": "年目",
+      "translation": "YR"
+    },
+    {
+      "offset_start": "0x01EFEC68",
+      "offset_end": "0x01EFEC69",
+      "original": "春",
+      "translation": "✿"
+    },
+    {
+      "offset_start": "0x01EFEC6C",
+      "offset_end": "0x01EFEC6D",
+      "original": "夏",
+      "translation": "☀"
+    },
+    {
+      "offset_start": "0x01EFEC70",
+      "offset_end": "0x01EFEC71",
+      "original": "秋",
+      "translation": "♣"
+    },
+    {
+      "offset_start": "0x01EFEC74",
+      "offset_end": "0x01EFEC75",
+      "original": "冬",
+      "translation": "♣"
+    },
+    {
+      "offset_start": "0x01EFECDC",
+      "offset_end": "0x01EFECE3",
+      "original": "オフィス",
+      "translation": "Office"
+    },
+    {
+      "offset_start": "0x01EFECE8",
+      "offset_end": "0x01EFECEF",
+      "original": "生活用品",
+      "translation": "Home"
+    },
+    {
+      "offset_start": "0x01EFECFC",
+      "offset_end": "0x01EFED03",
+      "original": "趣味娯楽",
+      "translation": "Hobby"
+    },
+    {
+      "offset_start": "0x01EFED10",
+      "offset_end": "0x01EFED17",
+      "original": "公共施設",
+      "translation": "Public"
+    },
+    {
+      "offset_start": "0x01EFED1C",
+      "offset_end": "0x01EFED27",
+      "original": "？？？？？？",
+      "translation": "？？？？？？"
+    },
+    {
+      "offset_start": "0x01EFED34",
+      "offset_end": "0x01EFED3D",
+      "original": "居住世帯数",
+      "translation": "Homes"
+    },
+    {
+      "offset_start": "0x01EFED40",
+      "offset_end": "0x01EFED47",
+      "original": "世帯人数",
+      "translation": "P/HH"
+    },
+    {
+      "offset_start": "0x01EFED4C",
+      "offset_end": "0x01EFED53",
+      "original": "従業員数",
+      "translation": "Crew"
+    },
+    {
+      "offset_start": "0x01EFED78",
+      "offset_end": "0x01EFED7F",
+      "original": "ポイント",
+      "translation": "Score"
+    },
+    {
+      "offset_start": "0x01EFED8C",
+      "offset_end": "0x01EFED93",
+      "original": "目標人口",
+      "translation": "Goal"
+    },
+    {
+      "offset_start": "0x01EFED98",
+      "offset_end": "0x01EFEDA3",
+      "original": "目標ジャンル",
+      "translation": "Target"
+    },
+    {
+      "offset_start": "0x01EFEDA8",
+      "offset_end": "0x01EFEDB3",
+      "original": "テナント募集",
+      "translation": "Vacant"
+    },
+    {
+      "offset_start": "0x01EFEDB8",
+      "offset_end": "0x01EFEDC1",
+      "original": "企画事務所",
+      "translation": "Plan"
+    },
+    {
+      "offset_start": "0x01EFEDC4",
+      "offset_end": "0x01EFEDCD",
+      "original": "印刷会社　",
+      "translation": "Print"
+    },
+    {
+      "offset_start": "0x01EFEDD0",
+      "offset_end": "0x01EFEDD9",
+      "original": "飲料会社　",
+      "translation": "Drink"
+    },
+    {
+      "offset_start": "0x01EFEDDC",
+      "offset_end": "0x01EFEDE5",
+      "original": "会計事務所",
+      "translation": "Acct."
+    },
+    {
+      "offset_start": "0x01EFEDE8",
+      "offset_end": "0x01EFEDF1",
+      "original": "銀行　　　",
+      "translation": "Bank"
+    },
+    {
+      "offset_start": "0x01EFEDF4",
+      "offset_end": "0x01EFEDFD",
+      "original": "出版社　　",
+      "translation": "Press"
+    },
+    {
+      "offset_start": "0x01EFEE00",
+      "offset_end": "0x01EFEE09",
+      "original": "証券会社　",
+      "translation": "Stock"
+    },
+    {
+      "offset_start": "0x01EFEE0C",
+      "offset_end": "0x01EFEE15",
+      "original": "商社　　　",
+      "translation": "Trade"
+    },
+    {
+      "offset_start": "0x01EFEE18",
+      "offset_end": "0x01EFEE21",
+      "original": "ソフト開発",
+      "translation": "Soft"
+    },
+    {
+      "offset_start": "0x01EFEE24",
+      "offset_end": "0x01EFEE2D",
+      "original": "デザイン　",
+      "translation": "Dsgn"
+    },
+    {
+      "offset_start": "0x01EFEE30",
+      "offset_end": "0x01EFEE39",
+      "original": "保険会社　",
+      "translation": "Insur"
+    },
+    {
+      "offset_start": "0x01EFEE5C",
+      "offset_end": "0x01EFEE65",
+      "original": "営業時間外",
+      "translation": "Shut"
+    },
+    {
+      "offset_start": "0x01EFEE68",
+      "offset_end": "0x01EFEE71",
+      "original": "従業員不足",
+      "translation": "Short"
+    },
+    {
+      "offset_start": "0x01EFEE84",
+      "offset_end": "0x01EFEE8F",
+      "original": "[建設要求]",
+      "translation": "[Construction request]"
+    },
+    {
+      "offset_start": "0x01EFEE94",
+      "offset_end": "0x01EFEE9F",
+      "original": "[撤去要求]",
+      "translation": "[Removal request]"
+    },
+    {
+      "offset_start": "0x01EFEEA4",
+      "offset_end": "0x01EFEEAB",
+      "original": "ハンター",
+      "translation": "Hntr"
+    },
+    {
+      "offset_start": "0x01EFEEB0",
+      "offset_end": "0x01EFEEB7",
+      "original": "逃走時間",
+      "translation": "Time"
+    },
+    {
+      "offset_start": "0x01EFEEBC",
+      "offset_end": "0x01EFEF5B",
+      "original": "アイテムは、ショップやレストランに入り\n店員に話かければ購入することができます。\n\n様々なアイテムを使って、街の住人達との\nコミュニケーションに役立てましょう！",
+      "translation": "Get items at\nshops or cafes.\n\nUse them to help\ntalk with locals!"
+    },
+    {
+      "offset_start": "0x01EFEF60",
+      "offset_end": "0x01EFF019",
+      "original": "移住希望者は、このリストに登録されます！\n\nこの街に移住を希望する住人達には、\n住居が必要となります。\n\n住居や働く場所が無いと、街から退去して　\nしまうので、住人の動向には注意しよう！",
+      "translation": "New movers go\non this list!\n\nThey need homes.\nNo home or work,\nand they leave."
+    },
+    {
+      "offset_start": "0x01EFF01C",
+      "offset_end": "0x01EFF0EB",
+      "original": "住人の不満や要望は、ここに登録されます！\n\n不満や要望を解決すると、その住人の知人が\n移住希望リストに追加されていきます。\n\n住人を満足させ、知人を紹介してもらう事で\nどんどんと、大きな街にしていきましょう！",
+      "translation": "Needs go here!\n\nSolve them and\nfriends join the\nmover list.\nGrow your town!"
+    },
+    {
+      "offset_start": "0x01EFF0F0",
+      "offset_end": "0x01EFF10B",
+      "original": "直線の車道が不足しています。",
+      "translation": "Need str rd."
+    },
+    {
+      "offset_start": "0x01EFF110",
+      "offset_end": "0x01EFF169",
+      "original": "車道が分断されています。\n全ての車道は、歩道か車道によって\n繋がっていなければいけません。",
+      "translation": "Roads split.\nLink all roads\nwith road/path."
+    },
+    {
+      "offset_start": "0x01EFF16C",
+      "offset_end": "0x01EFF181",
+      "original": "他端末を待っています。",
+      "translation": "Wait peer."
+    },
+    {
+      "offset_start": "0x01EFF184",
+      "offset_end": "0x01EFF19B",
+      "original": "親の決定を待っています。",
+      "translation": "Wait host."
+    },
+    {
+      "offset_start": "0x01EFF1A0",
+      "offset_end": "0x01EFF1B3",
+      "original": "マップデータを送信中",
+      "translation": "Send map"
+    },
+    {
+      "offset_start": "0x01EFF1B8",
+      "offset_end": "0x01EFF1CB",
+      "original": "マップデータを受信中",
+      "translation": "Recv map"
+    },
+    {
+      "offset_start": "0x01EFF1D0",
+      "offset_end": "0x01EFF1DB",
+      "original": "自首用番号：",
+      "translation": "Quit#:"
+    },
+    {
+      "offset_start": "0x01EFF1E0",
+      "offset_end": "0x01EFF1EB",
+      "original": "総逃走時間：",
+      "translation": "TTime:"
+    },
+    {
+      "offset_start": "0x01EFF1F0",
+      "offset_end": "0x01EFF201",
+      "original": "ミッション成功数：",
+      "translation": "M OK #:"
+    },
+    {
+      "offset_start": "0x01EFF204",
+      "offset_end": "0x01EFF215",
+      "original": "ミッション失敗数：",
+      "translation": "M NG #:"
+    },
+    {
+      "offset_start": "0x01EFF218",
+      "offset_end": "0x01EFF221",
+      "original": "逃走失敗：",
+      "translation": "Fail:"
+    },
+    {
+      "offset_start": "0x01EFF22C",
+      "offset_end": "0x01EFF23B",
+      "original": "ステージクリア：",
+      "translation": "Clear:"
+    },
+    {
+      "offset_start": "0x01EFF240",
+      "offset_end": "0x01EFF24B",
+      "original": "総移動距離：",
+      "translation": "Dist:"
+    },
+    {
+      "offset_start": "0x01EFF250",
+      "offset_end": "0x01EFF25B",
+      "original": "走った距離：",
+      "translation": "Ran:"
+    },
+    {
+      "offset_start": "0x01EFF260",
+      "offset_end": "0x01EFF26F",
+      "original": "総獲得ポイント：",
+      "translation": "TotPts:"
+    },
+    {
+      "offset_start": "0x01EFF274",
+      "offset_end": "0x01EFF285",
+      "original": "最高獲得ポイント：",
+      "translation": "BestPts:"
+    },
+    {
+      "offset_start": "0x01EFF288",
+      "offset_end": "0x01EFF295",
+      "original": "マルチプレイ：",
+      "translation": "Multi:"
+    },
+    {
+      "offset_start": "0x01EFF298",
+      "offset_end": "0x01EFF2A5",
+      "original": "全員逃走成功：",
+      "translation": "All OK:"
+    },
+    {
+      "offset_start": "0x01EFF2A8",
+      "offset_end": "0x01EFF2B5",
+      "original": "全員逃走失敗：",
+      "translation": "All NG:"
+    },
+    {
+      "offset_start": "0x01EFF2B8",
+      "offset_end": "0x01EFF2C9",
+      "original": "自分だけ逃走成功：",
+      "translation": "Solo OK:"
+    },
+    {
+      "offset_start": "0x01EFF2CC",
+      "offset_end": "0x01EFF2DF",
+      "original": "自分以外が逃走成功：",
+      "translation": "Others OK"
+    },
+    {
+      "offset_start": "0x01EFF2E4",
+      "offset_end": "0x01EFF2F9",
+      "original": "初めて逃走を成功させた",
+      "translation": "First win"
+    },
+    {
+      "offset_start": "0x01EFF2FC",
+      "offset_end": "0x01EFF317",
+      "original": "一人用で５ステージクリアした",
+      "translation": "Solo 5 clr"
+    },
+    {
+      "offset_start": "0x01EFF31C",
+      "offset_end": "0x01EFF32F",
+      "original": "一人用で５回自首した",
+      "translation": "Solo quit5"
+    },
+    {
+      "offset_start": "0x01EFF334",
+      "offset_end": "0x01EFF34D",
+      "original": "マルチプレイで５回自首した",
+      "translation": "Multi quit5"
+    },
+    {
+      "offset_start": "0x01EFF350",
+      "offset_end": "0x01EFF36B",
+      "original": "総移動距離が１００ｋｍ超える",
+      "translation": "100km total"
+    },
+    {
+      "offset_start": "0x01EFF370",
+      "offset_end": "0x01EFF387",
+      "original": "総獲得ポイント１０００万",
+      "translation": "10M pts"
+    },
+    {
+      "offset_start": "0x01EFF38C",
+      "offset_end": "0x01EFF3AD",
+      "original": "ミッションをクリアせず逃走成功した",
+      "translation": "Won no miss"
+    },
+    {
+      "offset_start": "0x01EFF3B0",
+      "offset_end": "0x01EFF3DB",
+      "original": "ミッションを全て達成し５ステージをクリアした",
+      "translation": "All miss +5 clr"
+    },
+    {
+      "offset_start": "0x01EFF3E0",
+      "offset_end": "0x01EFF3EF",
+      "original": "逃走失敗数１０回",
+      "translation": "10 fails"
+    },
+    {
+      "offset_start": "0x01EFF3F4",
+      "offset_end": "0x01EFF411",
+      "original": "作成マップで遊び、逃走成功した",
+      "translation": "Win own map"
+    },
+    {
+      "offset_start": "0x01EFF414",
+      "offset_end": "0x01EFF441",
+      "original": "一回もハンターに見つからず１ステージクリアした",
+      "translation": "Clear 1 unseen"
+    },
+    {
+      "offset_start": "0x01EFF444",
+      "offset_end": "0x01EFF459",
+      "original": "ステージクリア数１０回",
+      "translation": "10 clears"
+    },
+    {
+      "offset_start": "0x01EFF45C",
+      "offset_end": "0x01EFF471",
+      "original": "ステージクリア数２０回",
+      "translation": "20 clears"
+    },
+    {
+      "offset_start": "0x01EFF474",
+      "offset_end": "0x01EFF489",
+      "original": "ステージクリア数５０回",
+      "translation": "50 clears"
+    },
+    {
+      "offset_start": "0x01EFF48C",
+      "offset_end": "0x01EFF49B",
+      "original": "逃走失敗数２０回",
+      "translation": "20 fails"
+    },
+    {
+      "offset_start": "0x01EFF4A0",
+      "offset_end": "0x01EFF4AF",
+      "original": "逃走失敗数５０回",
+      "translation": "50 fails"
+    },
+    {
+      "offset_start": "0x01EFF4B4",
+      "offset_end": "0x01EFF4C5",
+      "original": "マルチプレイ２０回",
+      "translation": "20 multi"
+    },
+    {
+      "offset_start": "0x01EFF4C8",
+      "offset_end": "0x01EFF4DF",
+      "original": "総プレイ時間２４時間突破",
+      "translation": "24h played"
+    },
+    {
+      "offset_start": "0x01EFF4E4",
+      "offset_end": "0x01EFF52F",
+      "original": "人口が１００人を超えたので、\n庭付き和風住宅が\n建てられるようになりました！",
+      "translation": "Because the population exceeded 100,\n Japanese-style houses with gardens\n have become buildable!"
+    },
+    {
+      "offset_start": "0x01EFF534",
+      "offset_end": "0x01EFF57F",
+      "original": "人口が１００人を超えたので、\n庭付き洋風住宅が\n建てられるようになりました！",
+      "translation": "Because the population exceeded 100,\n Western-style houses with gardens\n have become buildable!"
+    },
+    {
+      "offset_start": "0x01EFF584",
+      "offset_end": "0x01EFF5CF",
+      "original": "人口が１５０人を超えたので、\nアパート（大）が\n建てられるようになりました！",
+      "translation": "Because the population exceeded 150,\n Large apartments!\n have become buildable!"
+    },
+    {
+      "offset_start": "0x01EFF5D4",
+      "offset_end": "0x01EFF61B",
+      "original": "人口が４００人を超えたので、\n団地（大）が\n建てられるようになりました！",
+      "translation": "Because the population exceeded 400,\n Large housing complexes\n have become buildable!"
+    },
+    {
+      "offset_start": "0x01EFF620",
+      "offset_end": "0x01EFF66D",
+      "original": "人口が２００人を超えたので、\nマンション（小）が\n建てられるようになりました！",
+      "translation": "Because the population exceeded 200,\n Small condominiums\n have become buildable!"
+    },
+    {
+      "offset_start": "0x01EFF670",
+      "offset_end": "0x01EFF6BD",
+      "original": "人口が５００人を超えたので、\nマンション（大）が\n建てられるようになりました！",
+      "translation": "Because the population exceeded 500,\n Large condominiums\n have become buildable!"
+    },
+    {
+      "offset_start": "0x01EFF6C0",
+      "offset_end": "0x01EFF713",
+      "original": "人口１５０人、オフィスが３軒以上になったので\nJTBが\n建てられるようになりました！",
+      "translation": "Because the population reached 150 and there are at least 3 offices,\n JTB\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFF718",
+      "offset_end": "0x01EFF767",
+      "original": "オフィスが５軒以上になったので、\n日の丸タクシーが\n建てられるようになりました！",
+      "translation": "Because there are at least 5 offices,\n Hinomaru Taxi\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFF76C",
+      "offset_end": "0x01EFF7C1",
+      "original": "人口３５０人、オフィスが３軒以上になったので\nタイムズが\n建てられるようになりました！",
+      "translation": "Pop350+ Off3+\nTime\nOpen!"
+    },
+    {
+      "offset_start": "0x01EFF7C4",
+      "offset_end": "0x01EFF821",
+      "original": "人口が２５０人、オフィスが３軒以上になったので\n日本レンタカーが\n建てられるようになりました！",
+      "translation": "Because the population reached 350 and there are at least 3 offices,\n Times\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFF824",
+      "offset_end": "0x01EFF875",
+      "original": "生活用品店が３軒以上になったので\nファミリーマートが\n建てられるようになりました！",
+      "translation": "Because there are at least 3 daily goods stores,\n FamilyMart\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFF878",
+      "offset_end": "0x01EFF8E1",
+      "original": "１００世帯突破し、生活用品店が５軒以上になったので\nコンタクトのアイシティが\n建てられるようになりました！",
+      "translation": "Because households exceeded 100 and there are at least 5 daily goods stores,\n Eye City (Contact Lenses)\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFF8E4",
+      "offset_end": "0x01EFF947",
+      "original": "人口が３００人、生活用品店が５軒以上になったので\nスーパーマーケットが\n建てられるようになりました！",
+      "translation": "Because the population reached 300 and there are at least 5 daily goods stores,\n Supermarket\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFF94C",
+      "offset_end": "0x01EFF9A7",
+      "original": "オフィスが１０％、生活用品店が５軒以上になったので\nAOKIが\n建てられるようになりました！",
+      "translation": "Because offices reached 10% and there are at least 5 daily goods stores,\n AOKI\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFF9AC",
+      "offset_end": "0x01EFFA09",
+      "original": "人口が５００人、生活用品店が７軒以上になったので\nケーヨーD２が\n建てられるようになりました！",
+      "translation": "Because the population reached 500 and there are at least 7 daily goods stores,\n Keiyo D2\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFA0C",
+      "offset_end": "0x01EFFA57",
+      "original": "生活用品店が３軒以上になったので\nスリーエフが\n建てられるようになりました！",
+      "translation": "Because there are at least 3 daily goods stores,\n Three F\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFA5C",
+      "offset_end": "0x01EFFAB9",
+      "original": "生活用品店が６軒以上、小学校が２軒以上になったので\nミキハウスが\n建てられるようになりました！",
+      "translation": "Because there are at least 6 daily goods stores and at least 2 elementary schools,\n Miki House\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFABC",
+      "offset_end": "0x01EFFB15",
+      "original": "５０世帯突破し、生活用品店が６軒以上になったので\nユニクロが\n建てられるようになりました！",
+      "translation": "Because households exceeded 50 and there are at least 6 daily goods stores,\n UNIQLO\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFB18",
+      "offset_end": "0x01EFFB63",
+      "original": "生活用品店が３軒以上になったので\nサークルKが\n建てられるようになりました！",
+      "translation": "Because there are at least 3 daily goods stores,\n Circle K\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFB68",
+      "offset_end": "0x01EFFBB1",
+      "original": "生活用品店が３軒以上になったので\nサンクスが\n建てられるようになりました！",
+      "translation": "Because there are at least 3 daily goods stores,\n Sunkus\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFBB4",
+      "offset_end": "0x01EFFC15",
+      "original": "生活用品が１０％、人口が４００人以上になったので\nカメラのキタムラが\n建てられるようになりました！",
+      "translation": "Because daily goods reached 10% and the population is at least 400,\n Kitamura Camera\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFC18",
+      "offset_end": "0x01EFFC6F",
+      "original": "１８０世帯突破し、娯楽が１５％以上になったので\nデパートが\n建てられるようになりました！",
+      "translation": "Because households exceeded 180 and entertainment is at least 15%,\n Department Store\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFC74",
+      "offset_end": "0x01EFFCD3",
+      "original": "人口が１０００人、娯楽が１８％以上になったので\nファッションビルが\n建てられるようになりました！",
+      "translation": "Because the population reached 1000 and entertainment is at least 18%,\n Fashion Building\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFCD8",
+      "offset_end": "0x01EFFD2B",
+      "original": "４０世帯突破し、外食店が５軒以上になったので\nガストが\n建てられるようになりました！",
+      "translation": "Because households exceeded 40 and there are at least 5 restaurants,\n Gusto\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFD30",
+      "offset_end": "0x01EFFD81",
+      "original": "人口が４００人、外食店が６軒以上になったので\n牛角が\n建てられるようになりました！",
+      "translation": "Because the population reached 400 and there are at least 6 restaurants,\n Gyukaku\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFD84",
+      "offset_end": "0x01EFFDE1",
+      "original": "生活用品が１０％、外食店が３軒以上になったので\nKFC名称変更が\n建てられるようになりました！",
+      "translation": "Because daily goods reached 10% and there are at least 3 restaurants,\n KFC\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFDE4",
+      "offset_end": "0x01EFFE41",
+      "original": "娯楽が１０％、外食店が５軒以上になったので\nＴＧＩフライデーズが\n建てられるようになりました！",
+      "translation": "Because entertainment is at least 10% and there are at least 5 restaurants,\n TGI Friday's\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFE44",
+      "offset_end": "0x01EFFE9F",
+      "original": "人口が４００人、外食店が５軒以上になったので\nトゥザハーブズが\n建てられるようになりました！",
+      "translation": "Because the population reached 400 and there are at least 5 restaurants,\n To The Herbs\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFEA4",
+      "offset_end": "0x01EFFEF9",
+      "original": "３０世帯突破し、外食店が３軒以上になったので\nピザーラが\n建てられるようになりました！",
+      "translation": "Because households exceeded 30 and there are at least 3 restaurants,\n Pizza-La\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFEFC",
+      "offset_end": "0x01EFFF5F",
+      "original": "人口が２００人、外食店が３軒以上になったので\nフレッシュネスバーガーが\n建てられるようになりました！",
+      "translation": "Because the population reached 200 and there are at least 3 restaurants,\n Freshness Burger\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFF64",
+      "offset_end": "0x01EFFFBB",
+      "original": "娯楽が１０％、外食店が３軒以上になったので\nモスバーガーが\n建てられるようになりました！",
+      "translation": "Because entertainment is at least 10% and there are at least 3 restaurants,\n MOS Burger\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01EFFFC0",
+      "offset_end": "0x01F00019",
+      "original": "生活用品が１０％、外食店が５軒以上になったので\nバーミヤンが\n建てられるようになりました！",
+      "translation": "Because offices reached 10% and there are at least 5 restaurants,\n Watami\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F0001C",
+      "offset_end": "0x01F00071",
+      "original": "オフィスが１０％、外食店が３軒以上になったので\n吉野家が\n建てられるようになりました！",
+      "translation": "Because offices reached 10% and there are at least 3 restaurants,\n Yoshinoya\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F00074",
+      "offset_end": "0x01F000C7",
+      "original": "オフィスが１０％、外食店が５軒以上になったので\n和民が\n建てられるようになりました！",
+      "translation": "Because offices reached 10% and there are at least 5 restaurants,\n Watami\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F000CC",
+      "offset_end": "0x01F00127",
+      "original": "オフィスが１０％、外食店が６軒以上になったので\nPRONTOが\n建てられるようになりました！",
+      "translation": "Because offices reached 10% and there are at least 6 restaurants,\n PRONTO\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F0012C",
+      "offset_end": "0x01F00189",
+      "original": "オフィスが１０％、外食店が４軒以上になったので\nCOCO壱番屋が\n建てられるようになりました！",
+      "translation": "Because offices reached 10% and there are at least 4 restaurants,\n CoCo Ichibanya\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F0018C",
+      "offset_end": "0x01F001EB",
+      "original": "娯楽施設が３軒、高等学校が２軒以上になったので\n東進ハイスクールが\n建てられるようになりました！",
+      "translation": "Because there are 3 entertainment facilities and at least 2 high schools,\n Toshin High School\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F001F0",
+      "offset_end": "0x01F0025B",
+      "original": "外食が１０％、娯楽施設が７軒以上になったので\nレストランカラオケ・シダックスが\n建てられるようになりました！",
+      "translation": "Because dining reached 10% and there are at least 7 entertainment facilities,\n SHIDAX Restaurant Karaoke\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F00260",
+      "offset_end": "0x01F002B9",
+      "original": "外食が１５％、娯楽施設が１５軒以上になったので\nスタジアムが\n建てられるようになりました！",
+      "translation": "Because dining reached 15% and there are at least 15 entertainment facilities,\n Stadium\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F002BC",
+      "offset_end": "0x01F00311",
+      "original": "人口が１２００人、娯楽が１５％以上になったので\nタワーが\n建てられるようになりました！",
+      "translation": "Because the population reached 1200 and entertainment is at least 15%,\n Tower\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F00314",
+      "offset_end": "0x01F00373",
+      "original": "１００世帯突破し、娯楽施設が１０軒以上になったので\nティップネスが\n建てられるようになりました！",
+      "translation": "Because households exceeded 100 and there are at least 10 entertainment facilities,\n Tipness\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F00378",
+      "offset_end": "0x01F003D5",
+      "original": "人口が４００人、娯楽施設が７軒以上になったので\nタワーレコードが\n建てられるようになりました！",
+      "translation": "Because the population reached 400 and there are at least 7 entertainment facilities,\n Tower Records\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F003D8",
+      "offset_end": "0x01F00437",
+      "original": "１００世帯突破し、娯楽施設が７軒以上になったので\nTSUTAYAが\n建てられるようになりました！",
+      "translation": "Because households exceeded 100 and there are at least 7 entertainment facilities,\n TSUTAYA\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F0043C",
+      "offset_end": "0x01F00495",
+      "original": "人口が１０００人、娯楽が１８％以上になったので\nフジテレビが\n建てられるようになりました！",
+      "translation": "Because the population reached 1000 and entertainment is at least 18%,\n Fuji TV\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F00498",
+      "offset_end": "0x01F004EB",
+      "original": "外食が１０％、娯楽施設が５軒以上になったので\n博物館が\n建てられるようになりました！",
+      "translation": "Because dining reached 10% and there are at least 5 entertainment facilities,\n Museum\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F004F0",
+      "offset_end": "0x01F0054B",
+      "original": "２００世帯突破し、娯楽施設が７軒以上になったので\n日航ホテルが\n建てられるようになりました！",
+      "translation": "Because households exceeded 200 and there are at least 7 entertainment facilities,\n Hotel Nikko\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F00550",
+      "offset_end": "0x01F005AF",
+      "original": "オフィスが１０％、娯楽施設が７軒以上になったので\nカプセルホテルが\n建てられるようになりました！",
+      "translation": "Because offices reached 10% and there are at least 7 entertainment facilities,\n Capsule Hotel\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F005B4",
+      "offset_end": "0x01F00613",
+      "original": "１５０世帯突破し、娯楽施設が１０軒以上になったので\nゴルフ練習所が\n建てられるようになりました！",
+      "translation": "Because households exceeded 150 and there are at least 10 entertainment facilities,\n Golf Practice Range\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F00618",
+      "offset_end": "0x01F00675",
+      "original": "１００世帯突破し、娯楽施設が７軒以上になったので\nスーパー銭湯が\n建てられるようになりました！",
+      "translation": "Because households exceeded 100 and there are at least 7 entertainment facilities,\n Super Public Bath\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F00678",
+      "offset_end": "0x01F006D7",
+      "original": "生活用品が１０％、娯楽施設が３軒以上になったので\nゲームショップが\n建てられるようになりました！",
+      "translation": "Because daily goods reached 10% and there are at least 3 entertainment facilities,\n Game Shop\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F006DC",
+      "offset_end": "0x01F00731",
+      "original": "人口が５００人、娯楽施設が５軒以上になったので\n水族館が\n建てられるようになりました！",
+      "translation": "Because the population reached 500 and there are at least 5 entertainment facilities,\n Aquarium\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F00734",
+      "offset_end": "0x01F00773",
+      "original": "人口が２００人を超えたので、\n寺が\n建てられるようになりました！",
+      "translation": "Because the population exceeded 200,\n Temple\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F00778",
+      "offset_end": "0x01F007B9",
+      "original": "人口が４００人を超えたので、\n神社が\n建てられるようになりました！",
+      "translation": "Because the population exceeded 400,\n Shrine\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F007BC",
+      "offset_end": "0x01F00819",
+      "original": "生活用品が１５％、娯楽施設が５軒以上になったので\nPCショップが\n建てられるようになりました！",
+      "translation": "Because daily goods reached 15% and there are at least 5 entertainment facilities,\n PC Shop\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F0081C",
+      "offset_end": "0x01F00877",
+      "original": "娯楽施設が５軒、国立公園が１軒以上になったので\nテニスコートが\n建てられるようになりました！",
+      "translation": "Because there are 5 entertainment facilities and at least 1 national park,\n Tennis Court\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F0087C",
+      "offset_end": "0x01F008BD",
+      "original": "交番が２軒以上になったので\n警察署が\n建てられるようになりました！",
+      "translation": "Because there are at least 2 police stations,\n Metropolitan Police Department\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F008C0",
+      "offset_end": "0x01F00903",
+      "original": "警察署が２軒以上になったので\n警視庁が\n建てられるようになりました！",
+      "translation": "Because there are at least 2 police stations,\n Metropolitan Police Department\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F00908",
+      "offset_end": "0x01F00953",
+      "original": "消防署が３軒以上になったので\nレスキュー施設が\n建てられるようになりました！",
+      "translation": "Because there are at least 3 fire stations,\n Rescue Facility\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F00958",
+      "offset_end": "0x01F009A3",
+      "original": "診療所が２軒以上になったので\n総合病院（小）が\n建てられるようになりました！",
+      "translation": "Because there are at least 2 clinics,\n General Hospital (Small)\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F009A8",
+      "offset_end": "0x01F009FB",
+      "original": "総合病院（小）が２軒以上になったので\n総合病院（大）が\n建てられるようになりました！",
+      "translation": "Because there are at least 2 small general hospitals,\n General Hospital (Large)\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F00A00",
+      "offset_end": "0x01F00A57",
+      "original": "小・中・高等学校合わせて１０軒以上になったので\n総合学園が\n建てられるようになりました！",
+      "translation": "Because there are at least 10 elementary, middle, and high schools combined,\n Integrated Academy\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F00A5C",
+      "offset_end": "0x01F00AA3",
+      "original": "児童公園が４軒以上になったので\n広場公園が\n建てられるようになりました！",
+      "translation": "Because there are at least 4 children's parks,\n Plaza Park\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F00AA8",
+      "offset_end": "0x01F00AEF",
+      "original": "広場公園が３軒以上になったので\n国立公園が\n建てられるようになりました！",
+      "translation": "Because there are at least 3 plaza parks,\n National Park\n has become buildable!"
+    },
+    {
+      "offset_start": "0x01F00AF4",
+      "offset_end": "0x01F00B47",
+      "original": "娯楽が５％、外食店が３軒以上になったので\nパチンコ店が\n建てられるようになりました！",
+      "translation": "Because entertainment reached 5% and there are at least 3 restaurants,\n Pachinko Parlor\n has become buildable!"
+    },
+    {
+      "offset_start": "0x1EFED2c",
+      "offset_end": "0x1EFED31",
+      "original": "サイズ",
+      "translation": "Siz"
+    },
+    {
+      "offset_start": "0x1efe800",
+      "offset_end": "0x1efe805",
+      "original": "だみー",
+      "translation": "Dum"
+    },
+    {
+      "offset_start": "0x1efe868",
+      "offset_end": "0x1efe86d",
+      "original": "街情報",
+      "translation": "Info"
+    },
+    {
+      "offset_start": "0x1efe870",
+      "offset_end": "0x1efe875",
+      "original": "ヘルプ",
+      "translation": "Hlp"
+    },
+    {
+      "offset_start": "0x1efe878",
+      "offset_end": "0x1efe87d",
+      "original": "セーブ",
+      "translation": "SAVE"
+    },
+    {
+      "offset_start": "0x1efe8c0",
+      "offset_end": "0x1efe8c3",
+      "original": "はい",
+      "translation": "Yes"
+    },
+    {
+      "offset_start": "0x1efe8c8",
+      "offset_end": "0x1efe8cd",
+      "original": "いいえ",
+      "translation": "No"
+    },
+    {
+      "offset_start": "0x1efe8d0",
+      "offset_end": "0x1efe8d3",
+      "original": "設置",
+      "translation": "build"
+    },
+    {
+      "offset_start": "0x1efe8d8",
+      "offset_end": "0x1efe8db",
+      "original": "戻る",
+      "translation": "back"
+    },
+    {
+      "offset_start": "0x1efe970",
+      "offset_end": "0x1efe973",
+      "original": "指令",
+      "translation": "Dr"
+    },
+    {
+      "offset_start": "0x1efebd0",
+      "offset_end": "0x1efebd5",
+      "original": "ロード",
+      "translation": "Lod"
+    },
+    {
+      "offset_start": "0x1efebd8",
+      "offset_end": "0x1efebdb",
+      "original": "決定",
+      "translation": "Cf"
+    },
+    {
+      "offset_start": "0x1efed84",
+      "offset_end": "0x1efed87",
+      "original": "ボス",
+      "translation": "Boss"
+    },
+    {
+      "offset_start": "0x1efecac",
+      "offset_end": "0x1efecad",
+      "original": "人",
+      "translation": "P"
+    },
+    {
+      "offset_start": "0x1efee74",
+      "offset_end": "0x1efee79",
+      "original": "営業中",
+      "translation": "Open"
+    },
+    {
+      "offset_start": "0x1efed58",
+      "offset_end": "0x1efed5d",
+      "original": "来客数",
+      "translation": "Vis"
+    },
+    {
+      "offset_start": "0x1efecb0",
+      "offset_end": "0x1efecb1",
+      "original": "家",
+      "translation": "F"
+    },
+    {
+      "offset_start": "0x1efeccc",
+      "offset_end": "0x1efeccf",
+      "original": "世帯",
+      "translation": "H"
+    },
+    {
+      "offset_start": "0x1efecd4",
+      "offset_end": "0x1efecd7",
+      "original": "住宅",
+      "translation": "House"
+    },
+    {
+      "offset_start": "0x1efecf4",
+      "offset_end": "0x1efecf9",
+      "original": "外食系",
+      "translation": "Eat"
+    },
+        {
+      "offset_start": "0x1efed08",
+      "offset_end": "0x1efed0b",
+      "original": "工場",
+      "translation": "Plants"
+    },
+    {
+      "offset_start": "0x1efec78",
+      "offset_end": "0x1efec7b",
+      "original": "人口",
+      "translation": "POP"
+    },
+    {
+      "offset_start": "0x1efec88",
+      "offset_end": "0x1efec8d",
+      "original": "世帯数",
+      "translation": "House"
+    }
+  ]
+}

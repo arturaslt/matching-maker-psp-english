@@ -1,0 +1,671 @@
+{
+  "encoding": "UTF-16LE",
+  "tabs": [
+      {
+        "offset_start": "0x01F02000",
+        "offset_end": "0x01F02007",
+        "original": "なし",
+        "translation": "None"
+      },
+      {
+        "offset_start": "0x01F02048",
+        "offset_end": "0x01F02051",
+        "original": "芝生",
+        "translation": "Grass"
+      },
+      {
+        "offset_start": "0x01F02090",
+        "offset_end": "0x01F02099",
+        "original": "海岸",
+        "translation": "Coast"
+      },
+      {
+        "offset_start": "0x01F020D8",
+        "offset_end": "0x01F020E5",
+        "original": "歩道",
+        "translation": "Walkway"
+      },
+      {
+        "offset_start": "0x01F02120",
+        "offset_end": "0x01F02127",
+        "original": "道路",
+        "translation": "roads"
+      },
+      {
+        "offset_start": "0x01F02168",
+        "offset_end": "0x01F02177",
+        "original": "鉄道",
+        "translation": "Railroad"
+      },
+      {
+        "offset_start": "0x01F021B0",
+        "offset_end": "0x01F021C9",
+        "original": "和風住宅",
+        "translation": "Japanese Home"
+      },
+      {
+        "offset_start": "0x01F021F8",
+        "offset_end": "0x01F0220F",
+        "original": "洋風住宅",
+        "translation": "Western Home"
+      },
+      {
+        "offset_start": "0x01F02240",
+        "offset_end": "0x01F02259",
+        "original": "庭付き和風住宅",
+        "translation": "Jap Home Yard"
+      },
+      {
+        "offset_start": "0x01F02288",
+        "offset_end": "0x01F022A3",
+        "original": "庭付き洋風住宅",
+        "translation": "West Home Yard"
+      },
+      {
+        "offset_start": "0x01F022D0",
+        "offset_end": "0x01F022ED",
+        "original": "アパート（小）",
+        "translation": "Apartment Small"
+      },
+      {
+        "offset_start": "0x01F02318",
+        "offset_end": "0x01F02335",
+        "original": "アパート（大）",
+        "translation": "Apartment Large"
+      },
+      {
+        "offset_start": "0x01F02360",
+        "offset_end": "0x01F02379",
+        "original": "団地（小）",
+        "translation": "Housing Small"
+      },
+      {
+        "offset_start": "0x01F023A8",
+        "offset_end": "0x01F023C1",
+        "original": "団地（大）",
+        "translation": "Housing Large"
+      },
+      {
+        "offset_start": "0x01F023F0",
+        "offset_end": "0x01F02405",
+        "original": "マンション（小）",
+        "translation": "Condo Small"
+      },
+      {
+        "offset_start": "0x01F02438",
+        "offset_end": "0x01F02445",
+        "original": "マンション（大）",
+        "translation": "Condo L"
+      },
+      {
+        "offset_start": "0x01F02480",
+        "offset_end": "0x01F0249D",
+        "original": "オフィスビル",
+        "translation": "Office Building"
+      },
+      {
+        "offset_start": "0x01F024C8",
+        "offset_end": "0x01F024D1",
+        "original": "タイムズ",
+        "translation": "Times"
+      },
+      {
+        "offset_start": "0x01F02510",
+        "offset_end": "0x01F02515",
+        "original": "ＪＴＢ",
+        "translation": "ＪＴＢ"
+      },
+      {
+        "offset_start": "0x01F02558",
+        "offset_end": "0x01F02573",
+        "original": "ニッポンレンタカー",
+        "translation": "Nippon RentCar"
+      },
+      {
+        "offset_start": "0x01F025A0",
+        "offset_end": "0x01F025B9",
+        "original": "日の丸タクシー",
+        "translation": "Hinomaru Taxi"
+      },
+      {
+        "offset_start": "0x01F025E8",
+        "offset_end": "0x01F025FF",
+        "original": "酒屋",
+        "translation": "Liquor Store"
+      },
+      {
+        "offset_start": "0x01F02630",
+        "offset_end": "0x01F02645",
+        "original": "電気屋",
+        "translation": "Electronics"
+      },
+      {
+        "offset_start": "0x01F02678",
+        "offset_end": "0x01F0268D",
+        "original": "クリーニング屋",
+        "translation": "Dry Cleaner"
+      },
+      {
+        "offset_start": "0x01F026C0",
+        "offset_end": "0x01F026D1",
+        "original": "ケーキ屋",
+        "translation": "Cake Shop"
+      },
+      {
+        "offset_start": "0x01F02708",
+        "offset_end": "0x01F02717",
+        "original": "ブティック",
+        "translation": "Boutique"
+      },
+      {
+        "offset_start": "0x01F02750",
+        "offset_end": "0x01F02765",
+        "original": "スーパーマーケット",
+        "translation": "Supermarket"
+      },
+      {
+        "offset_start": "0x01F02798",
+        "offset_end": "0x01F027AD",
+        "original": "デパート",
+        "translation": "Dept. Store"
+      },
+      {
+        "offset_start": "0x01F027E0",
+        "offset_end": "0x01F027F7",
+        "original": "ファッションビル",
+        "translation": "Fashion Bldg"
+      },
+      {
+        "offset_start": "0x01F02828",
+        "offset_end": "0x01F0283B",
+        "original": "ファミリーマート",
+        "translation": "FamilyMart"
+      },
+      {
+        "offset_start": "0x01F02870",
+        "offset_end": "0x01F0287D",
+        "original": "スリーエフ",
+        "translation": "Three F"
+      },
+      {
+        "offset_start": "0x01F028B8",
+        "offset_end": "0x01F028C7",
+        "original": "サークルＫ",
+        "translation": "Circle K"
+      },
+      {
+        "offset_start": "0x01F02900",
+        "offset_end": "0x01F0290B",
+        "original": "サンクス",
+        "translation": "Sunkus"
+      },
+      {
+        "offset_start": "0x01F02948",
+        "offset_end": "0x01F02957",
+        "original": "コンタクトのアイシティ",
+        "translation": "Eye City"
+      },
+      {
+        "offset_start": "0x01F02990",
+        "offset_end": "0x01F02997",
+        "original": "ＡＯＫＩ",
+        "translation": "AOKI"
+      },
+      {
+        "offset_start": "0x01F029D8",
+        "offset_end": "0x01F029EB",
+        "original": "ミキハウス",
+        "translation": "Miki House"
+      },
+      {
+        "offset_start": "0x01F02A20",
+        "offset_end": "0x01F02A2B",
+        "original": "ユニクロ",
+        "translation": "UNIQLO"
+      },
+      {
+        "offset_start": "0x01F02A68",
+        "offset_end": "0x01F02A7F",
+        "original": "カメラのキタムラ",
+        "translation": "Kitamura Cam"
+      },
+      {
+        "offset_start": "0x01F02AB0",
+        "offset_end": "0x01F02ABF",
+        "original": "ケーヨーＤ２",
+        "translation": "Keiyo D2"
+      },
+      {
+        "offset_start": "0x01F02AF8",
+        "offset_end": "0x01F02B09",
+        "original": "うどんそば屋",
+        "translation": "Udon Soba"
+      },
+      {
+        "offset_start": "0x01F02B40",
+        "offset_end": "0x01F02B51",
+        "original": "寿司屋",
+        "translation": "Sushi Bar"
+      },
+      {
+        "offset_start": "0x01F02B88",
+        "offset_end": "0x01F02B9B",
+        "original": "ラーメン屋",
+        "translation": "Ramen Shop"
+      },
+      {
+        "offset_start": "0x01F02BD0",
+        "offset_end": "0x01F02BE1",
+        "original": "スナック",
+        "translation": "Snack Bar"
+      },
+      {
+        "offset_start": "0x01F02C18",
+        "offset_end": "0x01F02C27",
+        "original": "ピザーラ",
+        "translation": "Pizza-La"
+      },
+      {
+        "offset_start": "0x01F02C60",
+        "offset_end": "0x01F02C7B",
+        "original": "フレッシュネスバーガー",
+        "translation": "Freshness Burg"
+      },
+      {
+        "offset_start": "0x01F02CA8",
+        "offset_end": "0x01F02CBB",
+        "original": "モスバーガー",
+        "translation": "MOS Burger"
+      },
+      {
+        "offset_start": "0x01F02CF0",
+        "offset_end": "0x01F02D01",
+        "original": "吉野家",
+        "translation": "Yoshinoya"
+      },
+      {
+        "offset_start": "0x01F02D38",
+        "offset_end": "0x01F02D4F",
+        "original": "CoCo壱番屋",
+        "translation": "CoCo Ichiban"
+      },
+      {
+        "offset_start": "0x01F02D80",
+        "offset_end": "0x01F02D89",
+        "original": "ガスト",
+        "translation": "Gusto"
+      },
+      {
+        "offset_start": "0x01F02DC8",
+        "offset_end": "0x01F02DD5",
+        "original": "バーミヤン",
+        "translation": "Bamiyan"
+      },
+      {
+        "offset_start": "0x01F02E10",
+        "offset_end": "0x01F02E1D",
+        "original": "牛角",
+        "translation": "Gyukaku"
+      },
+      {
+        "offset_start": "0x01F02E58",
+        "offset_end": "0x01F02E6D",
+        "original": "Ｔ.Ｇ.Ｉ.フライデーズ",
+        "translation": "TGI Fridays"
+      },
+      {
+        "offset_start": "0x01F02EA0",
+        "offset_end": "0x01F02EB7",
+        "original": "トゥザハーブズ",
+        "translation": "To the Herbs"
+      },
+      {
+        "offset_start": "0x01F02EE8",
+        "offset_end": "0x01F02EF3",
+        "original": "和民",
+        "translation": "Watami"
+      },
+      {
+        "offset_start": "0x01F02F30",
+        "offset_end": "0x01F02F3B",
+        "original": "ＰＲＯＮＴＯ",
+        "translation": "PRONTO"
+      },
+      {
+        "offset_start": "0x01F02F78",
+        "offset_end": "0x01F02F91",
+        "original": "占い館",
+        "translation": "Fortune House"
+      },
+      {
+        "offset_start": "0x01F02FC0",
+        "offset_end": "0x01F02FD1",
+        "original": "書店",
+        "translation": "Bookstore"
+      },
+      {
+        "offset_start": "0x01F03008",
+        "offset_end": "0x01F03019",
+        "original": "ゲームショップ",
+        "translation": "Game Shop"
+      },
+      {
+        "offset_start": "0x01F03050",
+        "offset_end": "0x01F03065",
+        "original": "スポーツショップ",
+        "translation": "Sports Shop"
+      },
+      {
+        "offset_start": "0x01F03098",
+        "offset_end": "0x01F030A5",
+        "original": "PCショップ",
+        "translation": "PC Shop"
+      },
+      {
+        "offset_start": "0x01F030E0",
+        "offset_end": "0x01F030F5",
+        "original": "ゲームセンター",
+        "translation": "Game Center"
+      },
+      {
+        "offset_start": "0x01F03128",
+        "offset_end": "0x01F03141",
+        "original": "カプセルホテル",
+        "translation": "Capsule Hotel"
+      },
+      {
+        "offset_start": "0x01F03170",
+        "offset_end": "0x01F03189",
+        "original": "パチンコ店",
+        "translation": "Pachinko Hall"
+      },
+      {
+        "offset_start": "0x01F031B8",
+        "offset_end": "0x01F031CD",
+        "original": "スーパー銭湯",
+        "translation": "Super Sento"
+      },
+      {
+        "offset_start": "0x01F03200",
+        "offset_end": "0x01F03217",
+        "original": "テニスコート",
+        "translation": "Tennis Court"
+      },
+      {
+        "offset_start": "0x01F03248",
+        "offset_end": "0x01F03253",
+        "original": "博物館",
+        "translation": "Museum"
+      },
+      {
+        "offset_start": "0x01F03290",
+        "offset_end": "0x01F0329F",
+        "original": "水族館",
+        "translation": "Aquarium"
+      },
+      {
+        "offset_start": "0x01F032D8",
+        "offset_end": "0x01F032E3",
+        "original": "寺",
+        "translation": "Temple"
+      },
+      {
+        "offset_start": "0x01F03320",
+        "offset_end": "0x01F0332B",
+        "original": "神社",
+        "translation": "Shrine"
+      },
+      {
+        "offset_start": "0x01F03368",
+        "offset_end": "0x01F0337B",
+        "original": "ゴルフ練習場",
+        "translation": "Golf Range"
+      },
+      {
+        "offset_start": "0x01F033B0",
+        "offset_end": "0x01F033BD",
+        "original": "スタジアム",
+        "translation": "Stadium"
+      },
+      {
+        "offset_start": "0x01F033F8",
+        "offset_end": "0x01F03401",
+        "original": "タワー",
+        "translation": "Tower"
+      },
+      {
+        "offset_start": "0x01F03440",
+        "offset_end": "0x01F03455",
+        "original": "東進ハイスクール",
+        "translation": "Toshin H.S."
+      },
+      {
+        "offset_start": "0x01F03488",
+        "offset_end": "0x01F034A1",
+        "original": "タワーレコード",
+        "translation": "Tower Records"
+      },
+      {
+        "offset_start": "0x01F034D0",
+        "offset_end": "0x01F034DD",
+        "original": "ＴＳＵＴＡＹＡ",
+        "translation": "TSUTAYA"
+      },
+      {
+        "offset_start": "0x01F03518",
+        "offset_end": "0x01F03523",
+        "original": "レストランカラオケ・シダックス",
+        "translation": "SHIDAX"
+      },
+      {
+        "offset_start": "0x01F03560",
+        "offset_end": "0x01F0356D",
+        "original": "ティップネス",
+        "translation": "Tipness"
+      },
+      {
+        "offset_start": "0x01F035A8",
+        "offset_end": "0x01F035BD",
+        "original": "日航ホテル",
+        "translation": "Nikko Hotel"
+      },
+      {
+        "offset_start": "0x01F035F0",
+        "offset_end": "0x01F035FD",
+        "original": "フジテレビ",
+        "translation": "Fuji TV"
+      },
+      {
+        "offset_start": "0x01F03638",
+        "offset_end": "0x01F0364F",
+        "original": "食品工場",
+        "translation": "Food Factory"
+      },
+      {
+        "offset_start": "0x01F03680",
+        "offset_end": "0x01F03695",
+        "original": "鉄工所",
+        "translation": "Steel Works"
+      },
+      {
+        "offset_start": "0x01F036C8",
+        "offset_end": "0x01F036E5",
+        "original": "精密機器工場",
+        "translation": "Precision Plant"
+      },
+      {
+        "offset_start": "0x01F03710",
+        "offset_end": "0x01F03719",
+        "original": "エネオス",
+        "translation": "ENEOS"
+      },
+      {
+        "offset_start": "0x01F03758",
+        "offset_end": "0x01F03765",
+        "original": "駅",
+        "translation": "Station"
+      },
+      {
+        "offset_start": "0x01F037A0",
+        "offset_end": "0x01F037B1",
+        "original": "市役所",
+        "translation": "City Hall"
+      },
+      {
+        "offset_start": "0x01F037E8",
+        "offset_end": "0x01F037FB",
+        "original": "交番",
+        "translation": "Police Box"
+      },
+      {
+        "offset_start": "0x01F03830",
+        "offset_end": "0x01F03845",
+        "original": "警察署",
+        "translation": "Police Dept"
+      },
+      {
+        "offset_start": "0x01F03878",
+        "offset_end": "0x01F0388F",
+        "original": "警視庁",
+        "translation": "Metro Police"
+      },
+      {
+        "offset_start": "0x01F038C0",
+        "offset_end": "0x01F038D1",
+        "original": "消防署",
+        "translation": "Fire Dept"
+      },
+      {
+        "offset_start": "0x01F03908",
+        "offset_end": "0x01F03921",
+        "original": "レスキュー施設",
+        "translation": "Rescue Center"
+      },
+      {
+        "offset_start": "0x01F03950",
+        "offset_end": "0x01F0395B",
+        "original": "診療所",
+        "translation": "Clinic"
+      },
+      {
+        "offset_start": "0x01F03998",
+        "offset_end": "0x01F039B3",
+        "original": "総合病院（小）",
+        "translation": "General Hosp S"
+      },
+      {
+        "offset_start": "0x01F039E0",
+        "offset_end": "0x01F039FB",
+        "original": "総合病院（大）",
+        "translation": "General Hosp L"
+      },
+      {
+        "offset_start": "0x01F03A28",
+        "offset_end": "0x01F03A35",
+        "original": "保育園",
+        "translation": "Daycare"
+      },
+      {
+        "offset_start": "0x01F03A70",
+        "offset_end": "0x01F03A83",
+        "original": "小学校",
+        "translation": "Elementary"
+      },
+      {
+        "offset_start": "0x01F03AB8",
+        "offset_end": "0x01F03AD1",
+        "original": "中学校",
+        "translation": "Middle School"
+      },
+      {
+        "offset_start": "0x01F03B00",
+        "offset_end": "0x01F03B15",
+        "original": "高等学校",
+        "translation": "High School"
+      },
+      {
+        "offset_start": "0x01F03B48",
+        "offset_end": "0x01F03B55",
+        "original": "総合学園",
+        "translation": "Academy"
+      },
+      {
+        "offset_start": "0x01F03B90",
+        "offset_end": "0x01F03BA1",
+        "original": "児童公園",
+        "translation": "Kids Park"
+      },
+      {
+        "offset_start": "0x01F03BD8",
+        "offset_end": "0x01F03BF1",
+        "original": "ふれあい公園",
+        "translation": "Friendship Pk"
+      },
+      {
+        "offset_start": "0x01F03C20",
+        "offset_end": "0x01F03C33",
+        "original": "広場公園",
+        "translation": "Plaza Park"
+      },
+      {
+        "offset_start": "0x01F03C68",
+        "offset_end": "0x01F03C81",
+        "original": "国立公園",
+        "translation": "National Park"
+      },
+      {
+        "offset_start": "0x01F03CB0",
+        "offset_end": "0x01F03CC7",
+        "original": "公衆電話",
+        "translation": "Public Phone"
+      },
+      {
+        "offset_start": "0x01F03CF8",
+        "offset_end": "0x01F03D07",
+        "original": "赤コーン",
+        "translation": "Red Cone"
+      },
+      {
+        "offset_start": "0x01F03D40",
+        "offset_end": "0x01F03D55",
+        "original": "数字立看板",
+        "translation": "Number Sign"
+      },
+      {
+        "offset_start": "0x01F03D88",
+        "offset_end": "0x01F03D9B",
+        "original": "凍結ボックス",
+        "translation": "Freeze Box"
+      },
+      {
+        "offset_start": "0x01F03DD0",
+        "offset_end": "0x01F03DDB",
+        "original": "ボタン",
+        "translation": "Button"
+      },
+      {
+        "offset_start": "0x01F03E18",
+        "offset_end": "0x01F03E21",
+        "original": "レバー",
+        "translation": "Lever"
+      },
+      {
+        "offset_start": "0x01F03E60",
+        "offset_end": "0x01F03E7B",
+        "original": "宝箱",
+        "translation": "Treasure Chest"
+      },
+      {
+        "offset_start": "0x01F03EA8",
+        "offset_end": "0x01F03EAF",
+        "original": "データ",
+        "translation": "Data"
+      },
+      {
+        "offset_start": "0x01F04004",
+        "offset_end": "0x01F0401F",
+        "original": "一応コンバートしてください",
+        "translation": "Please convert"
+      }
+    ]
+}
