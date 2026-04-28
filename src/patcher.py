@@ -48,6 +48,7 @@ def patch_game():
         return
 
     for json_path in json_paths:
+        print(f"Processing {json_path}...")
         current_base = SUB_ENTRY_DATA_START
             
         with open(json_path, 'r', encoding='utf-8') as f:
@@ -61,22 +62,21 @@ def patch_game():
         if isinstance(trans_data, list):
             all_entries = trans_data
         elif isinstance(trans_data, dict):
-            tabs_source = trans_data.get("tabs") or trans_data.get("dialogs")
-            if tabs_source:
-                if isinstance(tabs_source, dict):
-                    for t_name in tabs_source:
-                        all_entries.extend(tabs_source[t_name])
-                else:
-                    all_entries = tabs_source
-            elif "offset_start" in trans_data:
+            if "offset_start" in trans_data:
                 all_entries = [trans_data]
             else:
-                for k, v in trans_data.items():
+                for v in trans_data.values():
                     if isinstance(v, list):
                         all_entries.extend(v)
+                    elif isinstance(v, dict) and "offset_start" in v:
+                        all_entries.append(v)
 
         if not isinstance(all_entries, list) or not all_entries:
+            print(f"  No entries found in {json_path}")
             continue
+
+        file_direct_count = 0
+        file_zoned_count = 0
 
         for entry in all_entries:
             if isinstance(entry, list) and len(entry) >= 3:
@@ -117,6 +117,7 @@ def patch_game():
                     size = abs_end - abs_start + 1
                     arc1[abs_start:abs_start+size] = b'\x00' * size
                 zoned_count += 1
+                file_zoned_count += 1
 
             elif method == 'replace':
                 encoded = None
@@ -133,6 +134,7 @@ def patch_game():
                             break
                     
                     if encoded is None:
+                        print(f"  Warning: Replace file '{file_to_patch}' not found.")
                         continue
                 elif translation:
                     encoded = translation.encode('utf-16-le')
@@ -140,6 +142,7 @@ def patch_game():
                 if encoded:
                     arc1[abs_start:abs_start+len(encoded)] = encoded
                     direct_count += 1
+                    file_direct_count += 1
 
             else: # update
                 if not translation: continue
@@ -152,6 +155,10 @@ def patch_game():
                 
                 arc1[abs_start:abs_start+len(encoded)] = encoded
                 direct_count += 1
+                file_direct_count += 1
+
+        print(f"  Applied {file_zoned_count} redirects and {file_direct_count} direct patches.")
+
 
     zone_d_size = zoned_count * 4
     zone_b_start_abs = ZONE_C_LOAD_OFFSET + zone_d_size
